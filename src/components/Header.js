@@ -7,6 +7,7 @@ export const Header =() => {
         Expense <span>Manager</span> <br />
         <a href="https://www.instagram.com/_.mughees._/">by Muhammad Mughees</a>
       </h1>
+      
     </div>
   )
 }
